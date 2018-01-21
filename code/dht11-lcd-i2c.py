@@ -1,5 +1,4 @@
 import lcddriver
-# from time import *
 import time
 import Adafruit_DHT
 
